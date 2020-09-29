@@ -1,6 +1,5 @@
 
-# Module 3 Final Project
-
+# Phase 3 Project
 
 ## Introduction
 
@@ -26,7 +25,7 @@ All that remains for Module 3 is to complete the final project!
 The main goal of this project is to create a classification model. For this project you have the choice to either:
 
 - choose a data set from a curated list
-- choose your own data set _outside_ of the curated list. 
+- choose your own data set _outside_ of the curated list.
 
 The data guidelines for either option are shown below
 
@@ -106,7 +105,7 @@ For online students, your completed project should contain the following four de
 
 1. A **_Jupyter Notebook_** containing any code you've written for this project. This work will need to be pushed to a public GitHub repository dedicated for this project.
 
-2. An organized **README.md** file in the GitHub repository that describes the contents of the repository. This file should be the source of information for navigating through the repository. 
+2. An organized **README.md** file in the GitHub repository that describes the contents of the repository. This file should be the source of information for navigating through the repository.
 
 3. A **_[Blog Post](https://github.com/learn-co-curriculum/dsc-welcome-blogging-v2-1)_**.
 
@@ -180,9 +179,9 @@ In this case, your "deployment" comes in the form of the deliverables listed abo
  - "What are some of the things that could cause the results to be wrong?"
 
 
-## Grading Rubric 
+## Grading Rubric
 
-Online students can find a PDF of the grading rubric for the project [here](https://github.com/learn-co-curriculum/dsc-mod-3-project-v2-1/blob/master/module_3_project_rubric.pdf). _Note: On-campus students may have different requirements, please speak with your instructor._ 
+Online students can find a PDF of the grading rubric for the project [here](https://github.com/learn-co-curriculum/dsc-mod-3-project-v2-1/blob/master/module_3_project_rubric.pdf). _Note: On-campus students may have different requirements, please speak with your instructor._
 
 
 ## Citation
