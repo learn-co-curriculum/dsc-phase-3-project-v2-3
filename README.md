@@ -111,20 +111,6 @@ Keep in mind that the audience for these deliverables is not only your teacher, 
 
 Create a new repository for your project to get started. We recommend structuring your project repository similar to the structure in [the Phase 1 Project Template](https://github.com/learn-co-curriculum/dsc-project-template). You can do this either by creating a new fork of that repository to work in or by building a new repository from scratch that mimics that structure.
 
-### Reflection Questions
-
-As you progress through your project, ask yourself the following questions and make sure that you have answers that you feel confident in. This will help you avoid major pitfalls, produce high-quality deliverables, and answer questions from your teacher, peers, or employers when you present your project.
-
- - "How did you pick the question(s) that you did?"
- - "Why are these questions important from a business perspective?"
- - "How did you decide on the data cleaning options you performed?"
- - "Why did you choose a given method or library?"
- - "Why did you select those visualizations and what did you learn from each of them?"
- - "Why did you pick those features as predictors?"
- - "How would you interpret the results?"
- - "How confident are you in the predictive quality of the results?"
- - "What are some of the things that could cause the results to be wrong?"
-
 ## Project Submission and Review
 
 Review the "Project Submission & Review" page in the "Milestones Instructions" topic to learn how to submit your project and how it will be reviewed. Your project must pass review for you to progress to the next Phase.
