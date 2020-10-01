@@ -107,9 +107,7 @@ Keep in mind that the audience for these deliverables is not only your teacher, 
 
 ## Getting Started
 
-Start on this project by forking and cloning [this project repository](https://github.com/learn-co-curriculum/dsc-phase-3-project) to get a local copy of the datasets.
-
-We recommend structuring your project repository similar to the structure in [the Phase 1 Project Template](https://github.com/learn-co-curriculum/dsc-project-template). You can do this either by creating a new fork of that repository to work in or by building a new repository from scratch that mimics that structure.
+Create a new repository for your project to get started. We recommend structuring your project repository similar to the structure in [the Phase 1 Project Template](https://github.com/learn-co-curriculum/dsc-project-template). You can do this either by creating a new fork of that repository to work in or by building a new repository from scratch that mimics that structure.
 
 ### Reflection Questions
 
