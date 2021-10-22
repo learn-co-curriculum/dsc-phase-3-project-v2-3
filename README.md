@@ -29,8 +29,11 @@ For complete details, see [Phase 3 Project - Choosing a Dataset](https://github.
 #### Classification
 
 Recall the distinction between *classification* and *regression* models:
+
  * Classification is used when the target variable is a *category*
  * Regression is used when the target variable is a *numeric value*
+
+(Categorical data may be represented in the data as numbers, e.g. 0 and 1, but they are not truly numeric values. If you're unsure, ask yourself "is a target value of 1 _one more than_ a target value of 0"; if it is one more, that is a regression target, if not, that is a classification target.)
 
 You already practiced performing a regression analysis in Phase 2, and you will have additional opportunities to work on regression problems in later phases, but **for this project, you must be modeling a classification problem**.
 
@@ -133,7 +136,7 @@ Just like in Phase 1 and 2, the `README.md` file should be the bridge between yo
 
 ## Grading
 
-***To pass this project, you must pass each project rubric objective.*** The project rubric objectives for Phase 2 are:
+***To pass this project, you must pass each project rubric objective.*** The project rubric objectives for Phase 3 are:
 
 1. Attention to Detail
 2. ML Communication
@@ -207,7 +210,7 @@ Communicates model metrics with at least one major error
 
 Does not communicate model metrics
 
-> It is not sufficient just to display the `classification_report` for a given model. You need to focus on one or more specific metrics that are important for your business case.
+> It is not sufficient just to display the `classification_report` or confusion matrix for a given model. You need to focus on one or more specific metrics that are important for your business case.
 
 ### Data Preparation for Machine Learning
 
@@ -215,7 +218,7 @@ We define this objective as:
 
 > Applying appropriate preprocessing and feature engineering steps to tabular data in preparation for predictive modeling
 
-This builds on the data preparation requirement from the Phase 2 project — you still need to ensure that you have a strategy for dealing with missing and non-numeric data.
+This builds on the data preparation requirement from the Phase 2 project; you still need to ensure that you have a strategy for dealing with missing and non-numeric data.
 
 For the Phase 3 project, make sure you also consider:
 
