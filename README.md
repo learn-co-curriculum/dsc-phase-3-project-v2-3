@@ -293,7 +293,9 @@ Does not build multiple classification models
 
 Please start by reviewing the contents of this project description. If you have any questions, please ask your instructor ASAP.
 
-Next, select a dataset and business problem. Recall that more information is available in [Phase 3 Project - Choosing a Dataset](https://github.com/learn-co-curriculum/dsc-phase-3-choosing-a-dataset).
+Once you are ready to begin the project, you will need to complete the Project Proposal.
+
+Recall that more information is available in [Phase 3 Project - Choosing a Dataset](https://github.com/learn-co-curriculum/dsc-phase-3-choosing-a-dataset).
 
 To get started with project development, create a new repository on GitHub. For this project, we recommend that you do not fork the template repository, but rather that you make a new repository from scratch, starting by going to [github.com/new](https://github.com/new).
 
